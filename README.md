@@ -25,9 +25,9 @@ The edgelists of the graphs can be found in the [graphs folder](./graphs).
 
 | Domain | Description | Range of network size | Number of networks |
 |-----------------|--------------------------------------------------------------|:---------------------------------------:|:--------------:|
-| Friendship | Online social networks of <br> friendships (mostly Facebook) | 50-2,995 <br> (avg: 946) | 100 |
-| Communication | Retweet, email and <br> reply networks | 44-125 <br> (avg: 55) | 100 |
-| Collaboration | Co-authorship and collaboration <br> networks (mostly scientific) | 19-1,500 <br> (avg: 118) | 18 |
+| Friendship | Online social networks of <br> friendships (mostly Facebook) | 324-23,613 <br> (avg: 5330) | 58 |
+| Communication | Retweet, email and <br> reply networks | 96-33,696 <br> (avg: 7,299 | 43 |
+| Collaboration | Co-authorship and collaboration <br> networks (mostly scientific) | 86-21,363 <br> (avg: 3790) | 19 |
 
 
 
