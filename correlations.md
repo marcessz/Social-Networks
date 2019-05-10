@@ -6,25 +6,10 @@ We have normalized the average path length, maximum degree and pseudo diameter m
 * ```p_diam_log = pseudo_diam / log(size)```
 
 
-![heatmap_friendship](./heatmap_friend.pdf "Correlation heatmap of metrics on friendship networks")
+![heatmap_friendship](./heatmap_friend.png "Correlation heatmap of metrics on friendship networks")
 
-![heatmap_comm](./heatmap_comm.pdf "Correlation heatmap of metrics on communication networks")
+![heatmap_comm](./heatmap_comm.png "Correlation heatmap of metrics on communication networks")
 
-![heatmap_collab](./heatmap_friend.pdf "Correlation heatmap of metrics on collaboration networks")
-
-
+![heatmap_collab](./heatmap_friend.png "Correlation heatmap of metrics on collaboration networks")
 
 
-
-<object data="https://github.com/marcessz/Social-Networks/blob/master/heatmap_friend.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/marcessz/Social-Networks/blob/master/heatmap_friend.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/marcessz/Social-Networks/blob/master/heatmap_friend.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
-<object data="https://github.com/marcessz/Social-Networks/blob/master/heatmap_friend.pdf" type="application/pdf" width="750px" height="750px">
-    <embed src="https://github.com/marcessz/Social-Networks/blob/master/heatmap_friend.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/marcessz/Social-Networks/blob/master/heatmap_friend.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
