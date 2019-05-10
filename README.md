@@ -21,13 +21,13 @@ The graphs are collected from the following sources:
 ## Summary of Networks
 
 
-The edgelists of the graphs can be found in the [graphs folder](./graphs).
+The edgelists of the graphs can be found in the [graphs folder](./graphs). 
 
 | Domain | Description | Range of network size | Number of networks |
 |-----------------|--------------------------------------------------------------|:---------------------------------------:|:--------------:|
-| Friendship | Online social networks of <br> friendships (mostly Facebook) | 324-23,613 <br> (avg: 5330) | 58 |
-| Communication | Retweet, email and <br> reply networks | 96-33,696 <br> (avg: 7,299 | 43 |
-| Collaboration | Co-authorship and collaboration <br> networks (mostly scientific) | 86-21,363 <br> (avg: 3790) | 19 |
+| Friendship | Online social networks of <br> friendships (mostly Facebook) | 324-23,613 <br> (median: 4,065) | 58 |
+| Communication | Retweet, email and <br> reply networks | 96-33,696 <br> (avg: 4,687 | 43 |
+| Collaboration | Co-authorship and collaboration <br> networks (mostly scientific) | 86-21,363 <br> (median: 553) | 19 |
 
 
 
@@ -49,5 +49,7 @@ The calculated metrics are the following:
 - number of edges,
 - number of nodes, 
 - pseudo diameter
+
+The correlation heatmaps of the metrics can be found [here](./correlations.md)
 
 A detailed description of the dataset and the metrics can be found in [*On the structural properties of social networks and their measurement-calibrated synthetic counterparts*](https://arxiv.org/abs/1810.08498)
