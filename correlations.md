@@ -14,4 +14,4 @@ Correration heatmap of the communication networks:
 Correlation heatmap of the collaboration networks:
 ![heatmap_collab](./heatmap_collab.png "Correlation heatmap of metrics on collaboration networks")
 
-
+The metris are hierarchically-clustered using the following metric: $d(p, q) = \sum | |p_i| - |q_i| | $
