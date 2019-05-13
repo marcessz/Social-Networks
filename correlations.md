@@ -12,6 +12,6 @@ Correration heatmap of the communication networks:
 ![heatmap_comm](./heatmap_comm.png "Correlation heatmap of metrics on communication networks")
 
 Correlation heatmap of the collaboration networks:
-![heatmap_collab](./heatmap_friend.png "Correlation heatmap of metrics on collaboration networks")
+![heatmap_collab](./heatmap_collab.png "Correlation heatmap of metrics on collaboration networks")
 
 
