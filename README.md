@@ -1,15 +1,5 @@
 # Social-Networks
 Supplementary data for the paper *On the structural properties of social networks and their measurement-calibrated synthetic counterparts* - M. Nagy, R. Molontay (2019)
-## How to Cite
-```
-@article{nagy2019social,
-  title={On the structural properties of social networks and their measurement-calibrated synthetic counterparts},
-  author={Nagy, Marcell and Molontay, Roland},
-  journal={arXiv preprint arXiv:1810.08498},
-  url={https://arxiv.org/abs/1810.08498},
-  year={2019}
-}
-```
 
 
 ## Source
