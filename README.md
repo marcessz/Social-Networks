@@ -42,5 +42,4 @@ The calculated metrics are the following:
 
 The **correlation heatmaps** of the metrics together with some analysis can be found [here](./correlations.md).
 
-A detailed description of the dataset and the metrics can be found in [*Data-driven Analysis of Complex Networks and their Model-generated Counterparts
-*](https://arxiv.org/abs/1810.08498)
+A detailed description of the dataset and the metrics can be found in [*Data-driven Analysis of Complex Networks and their Model-generated Counterparts*](https://arxiv.org/abs/1810.08498)
