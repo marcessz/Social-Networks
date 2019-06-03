@@ -1,1 +1,1 @@
-
+**The ```collab_original.xlsx```,  ```friend_original.xlsx```,  and ```comm_original.xlsx``` excel files contain the data of the real networks originated from the collaboration, friendship, and communication network domains respectively.** 
