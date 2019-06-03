@@ -22,7 +22,7 @@ The edgelists of the graphs can be found in the [graphs folder](./graphs).
 
 
 ## Graph Measurements
-The [data folder](./data) contains a spreadsheet that contains the calculated metrics of the 120 real networks. 
+The [data folder](./data) contains the spreadsheets which contain the calculated metrics of the 120 real networks. 
 
 The calculated metrics are the following:
 - assortativity, 
