@@ -11,8 +11,6 @@ The graphs are collected from the following sources:
 ## Summary of Networks
 
 
-The edgelists of the graphs can be found in the [graphs folder](./graphs). 
-
 | Domain | Description | Range of network size | Number of networks |
 |-----------------|--------------------------------------------------------------|:---------------------------------------:|:--------------:|
 | Friendship | Online social networks of <br> friendships (mostly Facebook) | 324-23,613 <br> (median: 4,065) | 58 |
