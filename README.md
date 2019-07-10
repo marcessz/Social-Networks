@@ -23,20 +23,20 @@ The graphs are collected from the following sources:
 The [data folder](./data) contains the spreadsheets which contain the calculated metrics of the 120 real networks. 
 
 The calculated metrics are the following:
-- assortativity, 
-- average clustering coefficient, 
-- average degree, 
-- average path length, 
-- density, 
-- global clustering coefficient, 
-- four interval degree probabilities introduced in [this paper](https://ieeexplore.ieee.org/abstract/document/7000748),
-- largest eigenvector centrality, 
-- maximum degree, 
-- maximum edge betweenness centrality,
-- maximum vertex betweenness centrality,
-- number of edges,
-- number of nodes, 
-- pseudo diameter
+- **Assortativity** (the *Pearson correlation coefficient* of degree between pairs of linked nodes), 
+- **Average clustering coefficient** (the average local clustering coefficient. The local clustering coefficient of a node  quantifies how close its neighbours are to being a clique), 
+- **Average degree** (the mean of the degrees), 
+- **Average path length** (average number of steps along the shortest paths for all possible pairs of nodes), 
+- **Density** (measures how dense the graph is, i.e. it is the number of edges divided by the maximum possible number of edges), 
+- **Global clustering coefficient** (the number of closed triplets over the total number of triplets (both open and closed)), 
+- **Four interval degree probabilities** introduced in [this paper](https://ieeexplore.ieee.org/abstract/document/7000748) (quantifies the degree distribtuion of the graph),
+- **Largest eigenvector centrality** (eigenvector centrality is a measure of the influence of a node in a network), 
+- **Maximum degree** (the maximum of the degrees), 
+- **Maximum edge betweenness centrality** (betweenness centrality is a measure of centrality in a graph based on shortest paths),
+- **Maximum vertex betweenness centrality** (betweenness centrality is a measure of centrality in a graph based on shortest paths),
+- **Number of edges**,
+- **Number of nodes**, 
+- **Pseudo diameter** (diameter is the greatest distance between any pair of vertices. Pseudo diameter is an approximation of the diameter)
 
 The **correlation heatmaps** of the metrics together with some analysis can be found [here](./correlations.md).
 
