@@ -23,7 +23,9 @@ The graphs are collected from the following sources:
 The [data folder](./data) contains the spreadsheets which contain the calculated metrics of the 120 real networks. 
 
 The calculated metrics are the following:
-- **Assortativity** (the *Pearson correlation coefficient* of degree between pairs of linked nodes), 
+- **Assortativity** (the *Pearson correlation coefficient* of degree between pairs of linked nodes) <br> 
+The assortativity coefficient is given by  $$r=\frac{\sum_{j,k}{j\cdot k (e_{j,k}-q_{j}q_{k})}}{\sigma_ q^2},$$ where the term $q_{k}$ is the mass function of the distribution of the remaining degrees (degree of the nodes minus one) and $j$ and $k$ indicates the remaining degrees. Furthermore, $e_{j,k}$ refers to the mass function of the joint probability distribution of the remaining degrees of the two vertices. 
+Finally, $\sigma_q^2$ denotes the variance of the remaining degree distribution with mass function $q_k$  i.e. $\sigma_q^2 = \sum_k k^2q_k - \left(\sum_k k q_k \right)^2$
 - **Average clustering coefficient** (the average local clustering coefficient. The local clustering coefficient of a node  quantifies how close its neighbours are to being a clique), 
 - **Average degree** (the mean of the degrees), 
 - **Average path length** (average number of steps along the shortest paths for all possible pairs of nodes), 
