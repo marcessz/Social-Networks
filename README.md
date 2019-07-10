@@ -30,7 +30,7 @@ The graphs are collected from the following sources:
 
 
 ## Graph Measurements
-The [data folder](./data) contains the spreadsheets which contain the calculated metrics of the 120 real networks. 
+**The [data folder](./data) contains the spreadsheets which contain the calculated metrics of the 120 real networks.** 
 
 The calculated metrics are the following:
 - **Assortativity** (the *Pearson correlation coefficient* of degree between pairs of linked nodes) <br> 
