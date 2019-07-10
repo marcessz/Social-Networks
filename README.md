@@ -1,6 +1,19 @@
 # Social-Networks
-Supplementary data for the paper *On the structural properties of social networks and their measurement-calibrated synthetic counterparts* - M. Nagy, R. Molontay (2019)
+Supplementary data for the paper *On the Structural Properties of Social Networks and their Measurement-calibrated Synthetic Counterparts* - M. Nagy, R. Molontay (2019)
 
+## How to Cite
+```
+@inproceedings{nagy2019structural,
+  title={On the Structural Properties of Social Networks and their Measurement-calibrated Synthetic Counterparts},
+  author={Nagy, Marcell and Molontay, Roland},
+  booktitle={2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
+  year={2019},
+  organization={IEEE}
+  }
+```
+
+
+@inproceedings{nagy2018predicting, title={Predicting Dropout in Higher Education Based on Secondary School Performance}, author={Nagy, Marcell and Molontay, Roland}, booktitle={2018 IEEE 22nd International Conference on Intelligent Engineering Systems (INES)}, pages={000389--000394}, year={2018}, organization={IEEE} }
 
 ## Source
 The graphs are collected from the following sources: 
