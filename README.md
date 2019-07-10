@@ -49,8 +49,8 @@ The betweenness centrality of a node *v* is given by the expression:
 <a href="https://www.codecogs.com/eqnedit.php?latex=g(v)&space;=&space;\sum_{s&space;\neq&space;v&space;\neq&space;t}&space;\frac{\sigma_{st}(v)}{\sigma_{st}}," target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(v)&space;=&space;\sum_{s&space;\neq&space;v&space;\neq&space;t}&space;\frac{\sigma_{st}(v)}{\sigma_{st}}," title="g(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}," /></a> where <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma_{st}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma_{st}" title="\sigma_{st}" /></a> is the total number of shortest paths from node *s* to node *t* and <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma_{st}(v)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma_{st}(v)" title="\sigma_{st}(v)" /></a> is the number of those paths that pass through *v*.
 - **Maximum edge betweenness centrality** (betweenness centrality is a measure of centrality in a graph based on shortest paths) <br>
 The edge betweenness centrality of an edge is the number of shortest paths between pairs of vertices that run along it. In other words this is analogous to the previously defined <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma_{st}(v)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma_{st}(v)" title="\sigma_{st}(v)" /></a>, but here we consider an edge instead of a node.
-- **Number of edges**,
-- **Number of nodes**, 
+- **Number of edges**
+- **Number of nodes** (size of the network) 
 - **Pseudo diameter** (diameter is the greatest distance between any pair of vertices. Pseudo diameter is an approximation of the diameter)
 
 The **correlation heatmaps** of the metrics together with some analysis can be found [here](./correlations.md).
