@@ -12,9 +12,6 @@ Supplementary data for the paper *On the Structural Properties of Social Network
   }
 ```
 
-
-@inproceedings{nagy2018predicting, title={Predicting Dropout in Higher Education Based on Secondary School Performance}, author={Nagy, Marcell and Molontay, Roland}, booktitle={2018 IEEE 22nd International Conference on Intelligent Engineering Systems (INES)}, pages={000389--000394}, year={2018}, organization={IEEE} }
-
 ## Source
 The graphs are collected from the following sources: 
 * [Network Repository](http://networkrepository.com), 
