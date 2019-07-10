@@ -33,8 +33,10 @@ where <a href="https://www.codecogs.com/eqnedit.php?latex=N_v" target="_blank"><
 
 The average (local) clustering coefficient of a *G* graph is defined as:
 <a href="https://www.codecogs.com/eqnedit.php?latex=\Bar{C}(G)&space;=&space;\frac{1}{n}\sum_{v\in&space;V(G)}&space;C_{\text{loc}}(v)," target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Bar{C}(G)&space;=&space;\frac{1}{n}\sum_{v\in&space;V(G)}&space;C_{\text{loc}}(v)," title="\Bar{C}(G) = \frac{1}{n}\sum_{v\in V(G)} C_{\text{loc}}(v)," /></a> where *n* is the size of the graph.
-- **Average degree** (the mean of the degrees), 
-- **Average path length** (average number of steps along the shortest paths for all possible pairs of nodes), 
+- **Average degree** (the mean of the degrees) 
+- **Average path length** (average number of steps along the shortest paths for all possible pairs of nodes) <br>
+A path is a sequence of edges which connect a sequence of vertices. The distance *d(u,v)* between the vertices *u* and *v* is the length (number of edges) of the shortest path connecting them. The <a href="https://www.codecogs.com/eqnedit.php?latex=l_G" target="_blank"><img src="https://latex.codecogs.com/gif.latex?l_G" title="l_G" /></a> average path length of a graph *G* of size *n* is defined as:
+<a href="https://www.codecogs.com/eqnedit.php?latex=l_G&space;=&space;\frac{1}{n(n-1)}\sum_{i\neq&space;j}&space;d(v_i,v_j)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?l_G&space;=&space;\frac{1}{n(n-1)}\sum_{i\neq&space;j}&space;d(v_i,v_j)" title="l_G = \frac{1}{n(n-1)}\sum_{i\neq j} d(v_i,v_j)" /></a>
 - **Density** (measures how dense the graph is) <br>
 Graph density *D* is the ratio of the number of edges of the graph divided by the number of edges of a complete graph with the same number of vertices, i.e: <a href="https://www.codecogs.com/eqnedit.php?latex=D&space;=&space;\frac{|E|}{\frac{1}{2}|V|(|V|-1)}." target="_blank"><img src="https://latex.codecogs.com/gif.latex?D&space;=&space;\frac{|E|}{\frac{1}{2}|V|(|V|-1)}." title="D = \frac{|E|}{\frac{1}{2}|V|(|V|-1)}." /></a>
 - **Global clustering coefficient** (the number of closed triplets over the total number of triplets (both open and closed)), 
