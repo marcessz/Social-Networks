@@ -16,7 +16,7 @@ Supplementary data for the paper *On the Structural Properties of Social Network
 The graphs are collected from the following sources: 
 * [Network Repository](http://networkrepository.com), 
 * [The Colorado Index of Complex Networks (ICON)](http://networkrepository.com),  
-* [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/)
+* [KONECT - The Koblenz Network Collection](http://konect.cc/)
 
 ## Summary of Networks
 
