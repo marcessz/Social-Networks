@@ -7,7 +7,7 @@ Supplementary data for the paper *On the Structural Properties of Social Network
   title={On the Structural Properties of Social Networks and their Measurement-calibrated Synthetic Counterparts},
   author={Nagy, Marcell and Molontay, Roland},
   booktitle={2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
-  pages={584--588}
+  pages={584--588},
   year={2019},
   organization={IEEE}
   }
