@@ -1,5 +1,5 @@
 # Social-Networks
-Supplementary data for the paper *On the Structural Properties of Social Networks and their Measurement-calibrated Synthetic Counterparts* - M. Nagy, R. Molontay (2019)
+Supplementary data for the paper [*On the Structural Properties of Social Networks and their Measurement-calibrated Synthetic Counterparts* - M. Nagy, R. Molontay (2019)](https://dl.acm.org/doi/10.1145/3341161.3343686)
 
 ## How to Cite
 ```
